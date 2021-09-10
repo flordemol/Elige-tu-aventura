@@ -17,3 +17,5 @@ Se requiere que en algún punto del código se utilice:
 * A medida que hagas elecciones "A" o "B", estas deben quedar en dos registros:
   + Uno que muestre en pantalla la última elección que realizó el usuario (por ejemplo, "Selección previa: A")
   + Otro registro mostrando todas las selecciones anteriores (por ejemplo, "Anteriores: A B A")
+
+![image](https://user-images.githubusercontent.com/54426004/132793433-cd7b1062-0382-4425-82d6-fa5810398e19.png)
