@@ -4,6 +4,7 @@ Aplicación a maquetar: “Elige tu propia aventura” 🎭
 
 ## Links
 * CodeSandbox: https://codesandbox.io/s/github/flordemol/Elige-tu-aventura
+* Github pages: https://flordemol.github.io/Elige-tu-aventura/
 
 ### Consigna
 Se requiere que en algún punto del código se utilice:
