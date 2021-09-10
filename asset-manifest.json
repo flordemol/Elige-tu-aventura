@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Elige-tu-aventura/static/css/main.9ada5355.chunk.css",
+    "main.js": "/Elige-tu-aventura/static/js/main.69371746.chunk.js",
+    "main.js.map": "/Elige-tu-aventura/static/js/main.69371746.chunk.js.map",
+    "runtime-main.js": "/Elige-tu-aventura/static/js/runtime-main.88988760.js",
+    "runtime-main.js.map": "/Elige-tu-aventura/static/js/runtime-main.88988760.js.map",
+    "static/js/2.cb7a3cb8.chunk.js": "/Elige-tu-aventura/static/js/2.cb7a3cb8.chunk.js",
+    "static/js/2.cb7a3cb8.chunk.js.map": "/Elige-tu-aventura/static/js/2.cb7a3cb8.chunk.js.map",
+    "index.html": "/Elige-tu-aventura/index.html",
+    "static/css/main.9ada5355.chunk.css.map": "/Elige-tu-aventura/static/css/main.9ada5355.chunk.css.map",
+    "static/js/2.cb7a3cb8.chunk.js.LICENSE.txt": "/Elige-tu-aventura/static/js/2.cb7a3cb8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88988760.js",
+    "static/js/2.cb7a3cb8.chunk.js",
+    "static/css/main.9ada5355.chunk.css",
+    "static/js/main.69371746.chunk.js"
+  ]
+}
